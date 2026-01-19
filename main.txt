@@ -1,0 +1,7 @@
+tokenisation differente, une qui retourne des mots et l'autre des phrases puis une partie qui prend un ensemble de mot et qui le transforme en bigramme. Puis pour la normalisation unicode transformer en mettant tout en minusule par exemple, enlever les accents, normalisation des nombres aussi et suppression de ponctuation et stop word
+faire tout ca sous forme de fonction que je peux reutiliser apres comme si je developpait en java
+
+
+
+
+lire un article scientifique et le resumer
